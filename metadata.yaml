@@ -1,0 +1,26 @@
+_repo: True-Love-A-Story-of-English-Domestic-Life_63121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farro, Sarah E.
+    birthdate: 1859
+    gutenberg_agent_id: '52296'
+    url: http://www.gutenberg.org/2009/agents/52296
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Farro
+description: ''
+gutenberg_issued: '2020-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63121'
+  lccn: '74150351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: 'True Love: A Story of English Domestic Life'
+url: http://www.gutenberg.org/ebooks/63121
